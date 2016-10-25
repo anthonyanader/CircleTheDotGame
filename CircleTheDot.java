@@ -50,9 +50,9 @@ public class CircleTheDot {
     	    public static void display() {
 
     		System.out.println("************************************************************");
-    		System.out.println("*    Names:  Filip Slatinac and Anthony Abi Nader          *");
-    		System.out.println("*       ID:  8273487            8426875                    *");
-    		System.out.println("*Section B:  ITI1121B           ITI1121B                   *");
+    		System.out.println("*    Names:  Filip Slatinac and Anthony A. Nader           *");
+    		System.out.println("*                                                          *");
+    		System.out.println("*                                                          *");
     		System.out.println("*                                                          *");
     		System.out.println("************************************************************");
     		System.out.println();
